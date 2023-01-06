@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Антилопа\n",
+        "calories": "114 кКал",
+        "proteins": "22,38 г",
+        "fats": "2,03 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Антилопа, запеченная\n",
+        "calories": "150 кКал",
+        "proteins": "29,45 г",
+        "fats": "2,67 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Баранина 1 кат.\n",
+        "calories": "209 кКал",
+        "proteins": "15,6 г",
+        "fats": "16,3 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Баранина 2 кат.\n",
+        "calories": "166 кКал",
+        "proteins": "19,8 г",
+        "fats": "9,6 г",
+        "carbohydrates": "0 г"
+    }
+]

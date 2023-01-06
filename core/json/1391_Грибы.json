@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Белый гриб\n",
+        "calories": "34 кКал",
+        "proteins": "3,7 г",
+        "fats": "1,7 г",
+        "carbohydrates": "1,1 г"
+    },
+    {
+        "name": "Белый гриб сушеный\n",
+        "calories": "286 кКал",
+        "proteins": "30,3 г",
+        "fats": "14,3 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "name": "Белый гриб, быстро обжаренный (стир-фрай)\n",
+        "calories": "26 кКал",
+        "proteins": "3,58 г",
+        "fats": "0,33 г",
+        "carbohydrates": "2,24 г"
+    },
+    {
+        "name": "Белый гриб, вареный, без соли\n",
+        "calories": "28 кКал",
+        "proteins": "2,17 г",
+        "fats": "0,47 г",
+        "carbohydrates": "3,09 г"
+    },
+    {
+        "name": "Белый гриб, вареный, с солью\n",
+        "calories": "28 кКал",
+        "proteins": "2,17 г",
+        "fats": "0,47 г",
+        "carbohydrates": "3,09 г"
+    },
+    {
+        "name": "Белый гриб, выращенный под ультрафиолетом\n",
+        "calories": "22 кКал",
+        "proteins": "3,09 г",
+        "fats": "0,34 г",
+        "carbohydrates": "2,26 г"
+    },
+    {
+        "name": "Белый гриб, приготовленный в микроволновке\n",
+        "calories": "35 кКал",
+        "proteins": "3,91 г",
+        "fats": "0,46 г",
+        "carbohydrates": "3,54 г"
+    },
+    {
+        "name": "Белый гриб, сырой\n",
+        "calories": "22 кКал",
+        "proteins": "3,09 г",
+        "fats": "0,34 г",
+        "carbohydrates": "2,26 г"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Белый гриб\n",
+        "calories": "34 кКал",
+        "proteins": "3,7 г",
+        "fats": "1,7 г",
+        "carbohydrates": "1,1 г"
+    },
+    {
+        "name": "Белый гриб сушеный\n",
+        "calories": "286 кКал",
+        "proteins": "30,3 г",
+        "fats": "14,3 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "name": "Белый гриб, быстро обжаренный (стир-фрай)\n",
+        "calories": "26 кКал",
+        "proteins": "3,58 г",
+        "fats": "0,33 г",
+        "carbohydrates": "2,24 г"
+    }
+]
